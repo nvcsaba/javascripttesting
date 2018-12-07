@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-# [Requirements]
-# [Running]
-# [Tests]
+- [Requirements](#requirements)
+- [Instructions](#running)
+- [Tests](#tests)
 
 ## Requirements
 
